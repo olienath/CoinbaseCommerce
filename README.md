@@ -1,2 +1,1 @@
-# CoinbaseCommerce
-Professional CoinbaseCommerce solution with CoinbaseCommerce-optimized coinbasecommerce-optimization and enterprise modern-design capabilities
+.
